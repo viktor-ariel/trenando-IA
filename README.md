@@ -1,0 +1,2 @@
+# trenando-IA
+trenando IA
